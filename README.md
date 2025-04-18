@@ -1,12 +1,3 @@
-Merhaba sevgili Chat Mini! kullanıcısı sana kurulum aşamalarını anlatan bu metni okuduğun için teşekkürler başlıyoruz...
-
-1. C diskinin içerisine "Chat Mini!" adında bir klasçr oluştur!
-
-2. Wirar'ın içerisindeki Setup adlı klasör e gir ve "Chat Mini!-Setup.EXE" adlı kurulum dosyasını çalıştır!
-
-3. Ardından C diskinin içerisindeki "Chat Mini!" adlı klasörü seç ve kurlumu oraya tamamla!
-
-4. Kurulum tamamlandıktan sonra "Chat Mini!" içerisindeki kısayolu alıp masaüstüne atıp dilediğin gibi kullanabilirsin!
-
-Adımlara uyup kurlumu tamamladığın için teşekkürler.
-(Bu aşamalar setup rar dosyasdını elde edenler içindir!)
+Merhaba sevgili Chat Mini! kullanıcısı bu proje Yıldırım Ticaret Mesleki Ve Tekniki Anadolu Lisesinin Programlama Temlleri Dersinin
+2. Dönem ek performans ödevi olarak yapılmıştır server çalıştırıldığında chat e bağlanılabilir ve konuşulabilir yazlılı olarak
+soket kodları yapay zekaya yazdırılmıştır geriye kalan kodlar baka aittir.
