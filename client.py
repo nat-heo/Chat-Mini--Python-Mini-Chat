@@ -31,7 +31,7 @@ def mesaj_gonder():
     mesaj = mesaj_kutusu.get()
     if mesaj.strip() == "":
         return
-    tam_mesaj = f"{kullanici_adi}: {kullanici_adi} > {mesaj}"
+    tam_mesaj = f"{kullanici_adi}: {kullanici_adi} | {mesaj}"
     istemci_soketi.send(tam_mesaj.encode('utf-8'))
     mesaj_kutusu.delete(0, ctk.END)
 
