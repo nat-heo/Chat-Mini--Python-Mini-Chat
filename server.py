@@ -23,7 +23,7 @@ def istemciyi_yonet(istemci):
 
 def dinle():
     sunucu = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    sunucu.bind(("127.0.0.1", 55555))
+    sunucu.bind(("0.0.0.0", 55555))
     sunucu.listen()
 
     print("Sunucu çalışıyor...")
